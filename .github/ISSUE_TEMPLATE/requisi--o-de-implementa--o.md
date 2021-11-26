@@ -6,6 +6,7 @@ labels: enhancement
 assignees: VictorBrugnago
 
 ---
+
 **Sua requisição de implementação é relacionado a um bug? Descreva-o**
 Uma descrição clara e concisa de qual é o problema. Ex: Percebo que existe um problema quando [...]
 Se sua requisição não tem relação a um bug, descreva a sua ideia de implementação. Ex: Proponho uma ideia de recurso na qual [...]

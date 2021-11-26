@@ -3,9 +3,10 @@ name: Reportar Bug
 about: Reporte aqui um BUG encontrado.
 title: "[BUG]"
 labels: bug
-assignees: VictorBrugnago
+assignees: VictorBrugnago, gsfelix99
 
 ---
+
 **Execução do Bug**
 Se necessário, descreva qual os passos para reproduzir o bug.
 
